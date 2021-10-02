@@ -1,0 +1,1351 @@
+#home {
+    background-color: #6246e4;
+    height: 70vh;
+  }
+  #phone {
+    width: 40%;
+    float: right;
+    margin-top: 0%;
+  }
+  #con {
+    float: left;
+    margin-left: 60px;
+    color: white;
+    font-size: 3vh;
+  }
+  #commence {
+    background-color: #ffffff;
+    color: rgb(27, 27, 27);
+    overflow: hidden;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    border-radius: 50px;
+  }
+  #conn {
+    float: left;
+    margin-left: 60px;
+    color: white;
+    font-size: 3vh;
+  }
+  #cone {
+    margin-left: 3px;
+    color: rgba(255, 255, 255, 0.63);
+    font-size: 3vh;
+    height: 3px;
+  }
+  .comp {
+    /* margin-left: 600px; */
+    text-align: center;
+  }
+  #pp {
+    color: rgba(19, 18, 18, 0.63);
+    text-align: center;
+    font-size: 3vh;
+  }
+  
+  .card-image {
+    height: 150px;
+    margin-bottom: 15px;
+    background-size: cover;
+  }
+  
+  .car-l {
+    background-image: url("/PHONE.jpg");
+  }
+  
+  .car-2 {
+    background-image: url("/PHONE.jpg");
+  }
+  
+  .car-3 {
+    background-image: url("/PHONE.jpg");
+  }
+  .card {
+    background-color: white;
+    width: 5%;
+    border-radius: rounded;
+    border: none;
+  }
+  .card-group {
+    width: 60%;
+    margin-left: 400px;
+  }
+  #srt {
+    margin-left: 600px;
+    width: 40%;
+  }
+  #img {
+    margin-top: 10px;
+    width: 40%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+  }
+  #imgg {
+    /* margin-left: 40px; */
+    margin-top: 10px;
+    width: 60%;
+  }
+  #groupe {
+    background-color: #eef7f6;
+    width: 20%;
+    height: 20vh;
+  }
+  .card-title {
+    text-align: center;
+  }
+  #imge {
+    width: 10%;
+    margin-left: 40px;
+    margin-right: 40px;
+  }
+  #quel {
+    margin-right: 300px;
+    font-size: 2vh;
+    text-align: center;
+    color: black;
+  }
+  #btn {
+    background-color: #6246e4;
+    color: white;
+    margin-left: 80px;
+    margin-top: 20px;
+    overflow: hidden;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    border-radius: 50px;
+    width: 40%;
+  }
+  #btn1 {
+    background-color: #6246e4;
+    color: white;
+    /* margin-left: 90px; */
+    margin-top: 10px;
+    overflow: hidden;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    border-radius: 50px;
+    width: 45%;
+  }
+  #btn2 {
+    background-color: #63bfb2;
+    color: white;
+    overflow: hidden;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+  }
+  #btn3 {
+    background-color: #6246e4;
+    color: white;
+    overflow: hidden;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+  }
+  #aa {
+    color: #6246e4;
+    text-decoration: none;
+  }
+  #groupee {
+    background-color: #f7f7f7;
+    height: 70vh;
+  }
+  #altt {
+    width: 50%;
+    margin-left: 90px;
+    margin-top: 30px;
+  }
+  #jgpp {
+    width: 200%;
+    margin-right: 800px;
+  }
+  #achat {
+    margin-right: 650px;
+  }
+  #grouppe {
+    background-color: #f7f7f7;
+    margin-left: 500px;
+    margin-right: 1000;
+    width: 50%;
+    height: 30vh;
+  }
+  #groupppe {
+    background-color: #eef7f6;
+    height: 40vh;
+    margin-left: 100px;
+    margin-right: 100px;
+  }
+  #bon {
+    width: 30%;
+    margin-right: 500px;
+    margin-top: 40px;
+  }
+  #bone {
+    width: 40%;
+    /* margin-right: 200px; */
+    margin-top: 40px;
+    margin-left: 90px;
+  }
+  
+  #cad {
+    margin-left: 50px;
+  }
+  #store {
+    width: 30%;
+    height: 7vh;
+    margin-left: 600px;
+  }
+  #store1 {
+    width: 30%;
+    height: 7vh;
+  }
+  
+  #pop {
+    margin-right: 100px;
+  }
+  #tel {
+    text-align: center;
+  }
+  #profe {
+    float: left;
+  }
+  #prof {
+    float: right;
+  }
+  @media (max-width: 1500px) {
+  }
+  @media (max-width: 1440px) {
+    #home {
+      background-color: #6246e4;
+      height: 40vh;
+    }
+    #carde {
+      margin-right: 10000px;
+    }
+    #commence {
+      background-color: #ffffff;
+      color: rgb(27, 27, 27);
+      overflow: hidden;
+      -webkit-border-radius: 50px;
+      -moz-border-radius: 50px;
+      border-radius: 50px;
+    }
+    #phone {
+      width: 40%;
+      float: right;
+      margin-top: 0%;
+    }
+    #con {
+      float: left;
+      /* margin-left: 20px; */
+      color: white;
+      font-size: 3vh;
+    }
+    #conn {
+      float: left;
+      margin-left: 60px;
+      color: white;
+      font-size: 3vh;
+    }
+    #cone {
+      margin-left: 3px;
+      color: rgba(255, 255, 255, 0.63);
+      font-size: 2vh;
+      /* height: 3px; */
+    }
+    #espace {
+      height: 4vh;
+    }
+    .comp {
+      margin-left: 150px;
+      text-align: center;
+    }
+    #trou {
+      font-size: 2.5vh;
+    }
+    #lo {
+      font-size: 1.2vh;
+    }
+    #trous {
+      font-size: 2vh;
+    }
+    #lol {
+      font-size: 1.2vh;
+    }
+    #trouss {
+      font-size: 2vh;
+    }
+    #loll {
+      font-size: 1.3vh;
+    }
+    #pp {
+      color: rgba(19, 18, 18, 0.63);
+      margin-left: 100px;
+      text-align: center;
+      font-size: 3vh;
+    }
+  
+    .card-image {
+      height: 150px;
+      margin-bottom: 15px;
+      background-size: cover;
+    }
+  
+    .car-l {
+      background-image: url("/PHONE.jpg");
+    }
+  
+    .car-2 {
+      background-image: url("/PHONE.jpg");
+    }
+  
+    .car-3 {
+      background-image: url("/PHONE.jpg");
+    }
+    .card {
+      background-color: white;
+      width: 5%;
+      border-radius: rounded;
+      border: none;
+    }
+    .card-group {
+      width: 60%;
+      margin-left: 400px;
+    }
+    #srt {
+      margin-left: 500px;
+      width: 40%;
+    }
+    #img {
+      margin-top: 10px;
+      width: 40%;
+      text-align: center;
+      margin-left: auto;
+      margin-right: auto;
+      display: flex;
+    }
+    #imgg {
+      margin-right: 6 0px;
+      margin-top: 10px;
+      width: 140%;
+    }
+    #groupe {
+      background-color: #eef7f6;
+      width: 30%;
+      height: 17vh;
+    }
+    .card-title {
+      text-align: center;
+    }
+    #imge {
+      width: 10%;
+      margin-left: 40px;
+      margin-right: 40px;
+    }
+    #quel {
+      margin-right: 160px;
+      font-size: 1.2vh;
+      text-align: center;
+      color: black;
+    }
+    #btn {
+      background-color: #6246e4;
+      color: white;
+      margin-right: 30px;
+      font-size: 1vh;
+      margin-top: 20px;
+      overflow: hidden;
+      -webkit-border-radius: 50px;
+      -moz-border-radius: 50px;
+      border-radius: 50px;
+      width: 40%;
+    }
+    #btn1 {
+      background-color: #6246e4;
+      color: white;
+      /* margin-left: 90px; */
+      margin-top: 10px;
+      overflow: hidden;
+      -webkit-border-radius: 50px;
+      -moz-border-radius: 50px;
+      border-radius: 50px;
+      width: 45%;
+      font-size: 1.1vh;
+    }
+    #btn2 {
+      background-color: #63bfb2;
+      color: white;
+      overflow: hidden;
+      -webkit-border-radius: 10px;
+      -moz-border-radius: 10px;
+      border-radius: 10px;
+    }
+    #btn3 {
+      background-color: #6246e4;
+      color: white;
+      overflow: hidden;
+      -webkit-border-radius: 10px;
+      -moz-border-radius: 10px;
+      border-radius: 10px;
+    }
+    #aa {
+      color: #6246e4;
+      text-decoration: none;
+    }
+    #fleche {
+      width: 30%;
+    }
+    #groupee {
+      background-color: #f7f7f7;
+      height: 70vh;
+    }
+    #altt {
+      width: 50%;
+      margin-left: 90px;
+      margin-top: 30px;
+    }
+    #jgpp {
+      width: 60%;
+      margin: auto;
+      /* margin-right: 10px; */
+    }
+    #jgppp {
+      width: 70%;
+      /* margin: auto; */
+      /* margin-right: 10px; */
+    }
+  
+    #grouppe {
+      background-color: #f7f7f7;
+      /* margin-left: 500px; */
+      margin-right: 1000;
+      width: 50%;
+      height: 20vh;
+    }
+    #groupppe {
+      background-color: #eef7f6;
+      height: 30vh;
+      margin-left: 100px;
+      margin-right: 100px;
+    }
+    #bon {
+      width: 30%;
+      margin-right: 500px;
+      margin-top: 40px;
+    }
+    #bone {
+      width: 30%;
+      margin-right: 200px;
+      margin-top: 40px;
+      /* margin-left: 90px; */
+    }
+  
+    #cad {
+      margin-left: 50px;
+    }
+    #store {
+      width: 40%;
+      height: 7vh;
+      margin-left: 400px;
+    }
+    #store1 {
+      width: 40%;
+      height: 7vh;
+    }
+  
+    #pop {
+      margin-right: 100px;
+    }
+    #tel {
+      text-align: center;
+    }
+    #rop {
+      /* width: 12%; */
+      text-align: center;
+      margin-left: auto;
+      margin-right: auto;
+      display: flex;
+    }
+  }
+  @media (min-width: 1440px) {
+    #home {
+      background-color: #6246e4;
+      height: 70vh;
+    }
+    #rop {
+      /* width: 12%; */
+      text-align: center;
+      margin-left: auto;
+      margin-right: auto;
+      display: flex;
+    }
+    #phone {
+      width: 40%;
+      float: right;
+      margin-top: 0%;
+    }
+    #carde {
+      margin-right: 10000px;
+    }
+    #con {
+      float: left;
+      margin-left: 60px;
+      color: white;
+      font-size: 3vh;
+    }
+    #commence {
+      background-color: #ffffff;
+      color: rgb(27, 27, 27);
+      overflow: hidden;
+      -webkit-border-radius: 50px;
+      -moz-border-radius: 50px;
+      border-radius: 50px;
+    }
+    #conn {
+      float: left;
+      margin-left: 60px;
+      color: white;
+      font-size: 3vh;
+    }
+    #cone {
+      margin-left: 3px;
+      color: rgba(255, 255, 255, 0.63);
+      font-size: 3vh;
+      height: 3px;
+    }
+    #espace {
+      height: 4vh;
+    }
+    .comp {
+      margin-left: 150px;
+      text-align: center;
+    }
+    #trou {
+      font-size: 2.5vh;
+    }
+    #lo {
+      font-size: 1.2vh;
+    }
+    #trous {
+      font-size: 2vh;
+    }
+    #lol {
+      font-size: 1.2vh;
+    }
+    #trouss {
+      font-size: 2vh;
+    }
+    #loll {
+      font-size: 1.3vh;
+    }
+    #pp {
+      color: rgba(19, 18, 18, 0.63);
+      margin-left: 100px;
+      text-align: center;
+      font-size: 3vh;
+    }
+  
+    .card-image {
+      height: 150px;
+      margin-bottom: 15px;
+      background-size: cover;
+    }
+  
+    .car-l {
+      background-image: url("/PHONE.jpg");
+    }
+  
+    .car-2 {
+      background-image: url("/PHONE.jpg");
+    }
+  
+    .car-3 {
+      background-image: url("/PHONE.jpg");
+    }
+    .card {
+      background-color: white;
+      width: 5%;
+      border-radius: rounded;
+      border: none;
+    }
+    .card-group {
+      width: 60%;
+      margin-left: 400px;
+    }
+    #srt {
+      margin-left: 500px;
+      width: 40%;
+    }
+    #img {
+      margin-top: 10px;
+      width: 40%;
+      text-align: center;
+      margin-left: auto;
+      margin-right: auto;
+      display: flex;
+    }
+    #imgg {
+      margin-right: 6 0px;
+      margin-top: 10px;
+      width: 50%;
+    }
+    #groupe {
+      background-color: #eef7f6;
+      width: 30%;
+      height: 17vh;
+    }
+    .card-title {
+      text-align: center;
+    }
+    #imge {
+      width: 10%;
+      margin-left: 40px;
+      margin-right: 40px;
+    }
+    #quel {
+      margin-right: 260px;
+      font-size: 1.2vh;
+      text-align: center;
+      color: black;
+    }
+    #btn {
+      background-color: #6246e4;
+      color: white;
+      margin-right: 30px;
+      font-size: 1vh;
+      margin-top: 20px;
+      overflow: hidden;
+      -webkit-border-radius: 50px;
+      -moz-border-radius: 50px;
+      border-radius: 50px;
+      width: 40%;
+    }
+    #btn1 {
+      background-color: #6246e4;
+      color: white;
+      /* margin-left: 90px; */
+      margin-top: 10px;
+      overflow: hidden;
+      -webkit-border-radius: 50px;
+      -moz-border-radius: 50px;
+      border-radius: 50px;
+      width: 45%;
+      font-size: 1.1vh;
+    }
+    #btn2 {
+      background-color: #63bfb2;
+      color: white;
+      overflow: hidden;
+      -webkit-border-radius: 10px;
+      -moz-border-radius: 10px;
+      border-radius: 10px;
+    }
+    #btn3 {
+      background-color: #6246e4;
+      color: white;
+      overflow: hidden;
+      -webkit-border-radius: 10px;
+      -moz-border-radius: 10px;
+      border-radius: 10px;
+    }
+    #aa {
+      color: #6246e4;
+      text-decoration: none;
+    }
+    #fleche {
+      width: 30%;
+    }
+    #groupee {
+      background-color: #f7f7f7;
+      height: 60vh;
+    }
+    #altt {
+      width: 50%;
+      margin-left: 90px;
+      margin-top: 30px;
+    }
+    #jgpp {
+      width: 50%;
+      /* margin: auto; */
+      margin-right: 700px;
+    }
+    #jgppp {
+      width: 70%;
+      /* margin: auto; */
+      /* margin-right: 10px; */
+    }
+  
+    #grouppe {
+      background-color: #f7f7f7;
+      /* margin-left: 500px; */
+      margin-right: 1000;
+      width: 50%;
+      height: 20vh;
+    }
+    #groupppe {
+      background-color: #eef7f6;
+      height: 30vh;
+      margin-left: 100px;
+      margin-right: 100px;
+    }
+    #bon {
+      width: 30%;
+      margin-right: 500px;
+      margin-top: 40px;
+    }
+    #bone {
+      width: 30%;
+      margin-right: 200px;
+      margin-top: 40px;
+      /* margin-left: 90px; */
+    }
+  
+    #cad {
+      margin-left: 50px;
+    }
+    #store {
+      width: 40%;
+      height: 7vh;
+      margin-left: 400px;
+    }
+    #store1 {
+      width: 40%;
+      height: 7vh;
+    }
+  
+    #pop {
+      margin-right: 100px;
+    }
+    #tel {
+      text-align: center;
+    }
+  }
+  
+  @media (max-width: 1024px) {
+    #home {
+      background-color: #6246e4;
+      height: 40vh;
+    }
+    #carde {
+      margin-right: 10000px;
+    }
+    #commence {
+      background-color: #ffffff;
+      color: rgb(27, 27, 27);
+      overflow: hidden;
+      -webkit-border-radius: 50px;
+      -moz-border-radius: 50px;
+      border-radius: 50px;
+    }
+    #phone {
+      width: 40%;
+      float: right;
+      margin-top: 0%;
+    }
+    #con {
+      float: left;
+      /* margin-left: 20px; */
+      color: white;
+      font-size: 3vh;
+    }
+    #rop {  
+    margin-left: auto;
+      margin-right: auto;
+      display: flex;
+    }
+    #profe {
+     float: right;
+    }
+    #prof {
+    float: right;
+    }
+    #conn {
+      float: left;
+      margin-left: 60px;
+      color: white;
+      font-size: 3vh;
+    }
+    #cone {
+      margin-left: 3px;
+      color: rgba(255, 255, 255, 0.63);
+      font-size: 2vh;
+      /* height: 3px; */
+    }
+    #espace {
+      height: 6vh;
+    }
+    .comp {
+      margin-left: 50px;
+      text-align: center;
+    }
+    #trou {
+      font-size: 2.5vh;
+    }
+    #lo {
+      font-size: 1.2vh;
+    }
+    #trous {
+      font-size: 2vh;
+    }
+    #lol {
+      font-size: 1.2vh;
+    }
+    #trouss {
+      font-size: 2vh;
+    }
+    #loll {
+      font-size: 1.3vh;
+    }
+    #pp {
+      color: rgba(19, 18, 18, 0.63);
+      margin-left: 100px;
+      text-align: center;
+      font-size: 3vh;
+    }
+  
+    .card-image {
+      height: 150px;
+      margin-bottom: 15px;
+      background-size: cover;
+    }
+  
+    .car-l {
+      background-image: url("/PHONE.jpg");
+    }
+  
+    .car-2 {
+      background-image: url("/PHONE.jpg");
+    }
+  
+    .car-3 {
+      background-image: url("/PHONE.jpg");
+    }
+    .card {
+      background-color: white;
+      width: 5%;
+      border-radius: rounded;
+      border: none;
+    }
+    .card-group {
+      width: 60%;
+      margin-left: 400px;
+    }
+    #srt {
+      text-align: center;
+      margin-left: auto;
+      margin-right: auto;
+      display: flex;
+      width: 50%;
+    }
+    
+    #img {
+      margin-top: 10px;
+      width: 40%;
+      text-align: center;
+      margin-left: auto;
+      margin-right: auto;
+      display: flex;
+    }
+    #imgg {
+      margin-right: 60px;
+      margin-top: 10px;
+      width: 150%;
+    }
+    #groupe {
+      background-color: #eef7f6;
+      width: 40%;
+      height: 17vh;
+    }
+    .card-title {
+      text-align: center;
+    }
+    #imge {
+      width: 10%;
+      margin-left: 40px;
+      margin-right: 40px;
+    }
+    #quel {
+      margin-right: 160px;
+      font-size: 1.5vh;
+      text-align: center;
+      color: black;
+    }
+    #btn {
+      background-color: #6246e4;
+      color: white;
+      margin-right: 30px;
+      font-size: 1.6Vh;
+      margin-top: 20px;
+      overflow: hidden;
+      -webkit-border-radius: 50px;
+      -moz-border-radius: 50px;
+      border-radius: 50px;
+      width: 40%;
+    }
+    #btn1 {
+      background-color: #6246e4;
+      color: white;
+      /* margin-left: 90px; */
+      margin-top: 10px;
+      overflow: hidden;
+      -webkit-border-radius: 50px;
+      -moz-border-radius: 50px;
+      border-radius: 50px;
+      width: 45%;
+      font-size: 1.3vh;
+    }
+    #btn2 {
+      background-color: #63bfb2;
+      color: white;
+      overflow: hidden;
+      -webkit-border-radius: 10px;
+      -moz-border-radius: 10px;
+      border-radius: 10px;
+    }
+    #btn3 {
+      background-color: #6246e4;
+      color: white;
+      overflow: hidden;
+      -webkit-border-radius: 10px;
+      -moz-border-radius: 10px;
+      border-radius: 10px;
+    }
+    #aa {
+      color: #6246e4;
+      text-decoration: none;
+    }
+    #fleche {
+      width: 30%;
+    }
+    #groupee {
+      background-color: #f7f7f7;
+      height: 80vh;
+    }
+    #ropp {
+      width: 90%;
+      margin-left: auto;
+      margin-right: auto;
+      display: flex;
+    }
+    #roppe {
+      /* width: 100%; */
+      margin-left: auto;
+      margin-right: auto;
+      display: flex;
+      align-content: center;
+      justify-content: center;
+    }
+    #altt {
+      width: 50%;
+      margin-left: 90px;
+      margin-top: 30px;
+    }
+    #jgpp {
+      width: 60%;
+      margin: auto;
+      /* margin-right: 10px; */
+    }
+    #jgppp {
+      width: 70%;
+      /* margin: auto; */
+      /* margin-right: 10px; */
+    }
+  
+    #grouppe {
+      background-color: #f7f7f7;
+      margin-left: auto;
+      margin-right: auto;
+      display: flex;
+      align-content: center;
+      justify-content: center;
+      width: 60%;
+      height: 20vh;
+    }
+    #groupppe {
+      background-color: #eef7f6;
+      height: 20vh;
+      margin-left: 100px;
+      margin-right: 100px;
+    }
+    #bon {
+      width: 30%;
+      margin-right: 500px;
+      margin-top: 40px;
+    }
+    #bone {
+      width: 30%;
+      margin-right: 200px;
+      margin-top: 40px;
+      /* margin-left: 90px; */
+    }
+  
+    #cad {
+      margin-left: 50px;
+    }
+    #store {
+      width: 40%;
+      height: 7vh;
+      margin-left: 200px;
+    }
+    #store1 {
+      width: 40%;
+      height: 7vh;
+    }
+  
+    #pop {
+      margin-right: 100px;
+    }
+    #tel {
+      text-align: center;
+      font-size: 2.5vh;
+    }
+  }
+  @media (min-width: 375px) {
+    #home {
+      background-color:  #6246e4;
+      height: 40vh;
+    }
+  #foncc{
+    font-size: 1.5vh;
+  }
+    #man{
+      font-size: 3vh;
+    }
+    #con {
+      /* float: left; */
+      color: white;
+    }
+    #phone {
+      width: 40%;
+      /* float: right; */
+    }
+    #cone {
+      /* margin-left: 3px; */
+      color: rgba(255, 255, 255, 0.63);
+      font-size: 1.3vh;
+      /* height: 3px; */
+    }
+    #carde {
+      margin-right: 10000px;
+    }
+    #commence {
+      background-color: #ffffff;
+      color: rgb(27, 27, 27);
+      overflow: hidden;
+      -webkit-border-radius: 50px;
+      -moz-border-radius: 50px;
+      border-radius: 50px;
+      font-size: 1.6vh;
+    }
+    #srt {
+      margin-left: auto;
+      margin-right: auto;
+      display: flex;
+      width: 100%;
+    }
+    #imgg {
+      /* margin-right: 60px; */
+      /* margin-top: 10px; */
+      width: 60%;
+    }
+    #quel {
+      /* margin-right: 160px; */
+      font-size: 1.5vh;
+      text-align: center;
+      color: black;
+    }
+    #rop {  
+      width: 110%;
+    
+    }
+    #profe {
+     float: right;
+    }
+    #prof {
+    float: right;
+    }
+    #conn {
+      float: left;
+      margin-left: 60px;
+      color: white;
+      font-size: 3vh;
+    }
+   
+    #espace {
+      height: 3vh;
+    }
+    .comp {
+   font-size: 4vh;
+      text-align: center;
+    }
+    #trou {
+      font-size: 2.5vh;
+    }
+    #lo {
+      font-size: 1.2vh;
+    }
+    #trous {
+      font-size: 2vh;
+    }
+    #lol {
+      font-size: 1.2vh;
+    }
+    #trouss {
+      font-size: 2vh;
+    }
+    #loll {
+      font-size: 1.3vh;
+    }
+    #pp {
+      color: rgba(19, 18, 18, 0.63);
+      text-align: center;
+      font-size: 2.5vh;
+    }
+  
+    .card-image {
+      height: 150px;
+      margin-bottom: 15px;
+      background-size: cover;
+    }
+  
+    .car-l {
+      background-image: url("/PHONE.jpg");
+    }
+  
+    .car-2 {
+      background-image: url("/PHONE.jpg");
+    }
+  
+    .car-3 {
+      background-image: url("/PHONE.jpg");
+    }
+    .card {
+      background-color: white;
+      width: 5%;
+      border-radius: rounded;
+      border: none;
+    }
+    .card-group {
+      width: 60%;
+      margin-left: 400px;
+    }
+   
+    
+    #img {
+      margin-top: 10px;
+      width: 50%;
+      text-align: center;
+      margin-left: auto;
+      margin-right: auto;
+      display: flex;
+    }
+    
+    #groupe {
+      background-color: #eef7f6;
+      width: 40%;
+      height: 17vh;
+    }
+    .card-title {
+      text-align: center;
+    }
+    #imge {
+      width: 10%;
+      margin-left: 40px;
+      margin-right: 40px;
+    }
+   
+    #btn {
+      background-color: #6246e4;
+      color: white;
+      margin-right: 30px;
+      font-size: 1.6Vh;
+      margin-top: 20px;
+      overflow: hidden;
+      -webkit-border-radius: 50px;
+      -moz-border-radius: 50px;
+      border-radius: 50px;
+      width: 40%;
+    }
+    #btn1 {
+      background-color: #6246e4;
+      color: white;
+      margin-left: 90px;
+      /* margin-top: 10px; */
+      overflow: hidden;
+      -webkit-border-radius: 50px;
+      -moz-border-radius: 50px;
+      border-radius: 50px;
+      width: 40%;
+      font-size: 1.3vh;
+    }
+    #btn2 {
+      background-color: #63bfb2;
+      color: white;
+      width: 10%;
+      font-size: 8px;
+      text-align: center;
+      overflow: hidden;
+      -webkit-border-radius: 10px;
+      -moz-border-radius: 10px;
+      border-radius: 10px;
+    }
+    #btn3 {
+      background-color: #6246e4;
+      width: 10%;
+      font-size: 8px;
+      color: white;
+      overflow: hidden;
+      -webkit-border-radius: 10px;
+      -moz-border-radius: 10px;
+      border-radius: 10px;
+    }
+    #aa {
+      color: #6246e4;
+      text-decoration: none;
+    }
+    #fleche {
+      width: 30%;
+    }
+    #groupee {
+      background-color: #f7f7f7;
+      height: 90vh;
+    }
+    #ropp {
+      /* width: 100%; */
+      margin-left: auto;
+      margin-right: auto;
+      display: flex;
+    }
+    #roppe {
+      /* width: 100%; */
+      margin-left: auto;
+      margin-right: auto;
+      display: flex;
+      align-content: center;
+      justify-content: center;
+    }
+    #altt {
+      width: 50%;
+      margin-left: 20px;
+      margin-top: 30px;
+    }
+    #fonc{
+      font-size: 3vh;
+    }
+    #jgpp {
+      width: 60%;
+      margin: auto;
+      /* margin-right: 10px; */
+    }
+    #jgppp {
+      width: 70%;
+      /* margin: auto; */
+      /* margin-right: 10px; */
+    }
+  
+    #grouppe {
+      background-color: #f7f7f7;
+      margin-left: auto;
+      margin-right: auto;
+      display: flex;
+      align-content: center;
+      justify-content: center;
+      width: 60%;
+      height: 30vh;
+    }
+    #groupppe {
+      background-color: #eef7f6;
+      height: 20vh;
+      width: 80%;
+      /* margin-left: 100px; */
+      margin-right: 100px;
+    }
+    #bon {
+      width: 30%;
+      margin-right: 500px;
+      margin-top: 40px;
+    }
+    #bone {
+      width: 15%;
+      margin-right: 200px;
+      margin-top: 40px;
+      /* margin-left: 90px; */
+    }
+  
+    #cad {
+      margin-left: 50px;
+    }
+    #store {
+      width: 40%;
+      height: 7vh;
+      
+    }
+    #store1 {
+      margin-left: 60px;
+      width: 40%;
+      height: 7vh;
+    }
+  
+    #pop {
+      margin-right: 100px;
+    }
+    #tel {
+      text-align: center;
+      font-size: 2.5vh;
+    }
+  }
+  @media (max-width: 991) {
+  }
+  @media (max-width: 640px) {
+  }
+  @media (max-width: 400px) {
+  }
+  @media (max-width: 451px) {
+  }
+  @media (max-width: 407px) {
+  }
+  @media (max-width: 498px) {
+  }
+  @media (max-width: 490px) {
+  }
+  @media (max-width: 500px) {
+  }
+  @media (max-width: 516px) {
+  }
+  @media (max-width: 533px) {
+  }
+  @media (max-width: 539px) {
+  }
+  @media (max-width: 542px) {
+  }
+  @media (max-width: 636px) {
+  }
+  @media (max-width: 659px) {
+  }
+  @media (max-width: 690px) {
+  }
+  @media (max-width: 716px) {
+  }
+  @media (max-width: 747px) {
+  }
+  @media (max-width: 739px) {
+  }
+  @media (max-width: 742px) {
+  }
+  @media (max-width: 713px) {
+  }
+  @media (max-width: 547px) {
+  }
+  @media (max-width: 550px) {
+  }
+  @media (max-width: 750px) {
+  }
+  @media (max-width: 800px) {
+  }
+  @media (max-width: 805px) {
+  }
+  @media (max-width: 689px) {
+  }
+  
